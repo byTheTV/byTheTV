@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cc-code-geass.gif" width="1200">
+  <img src="assets/cc.gif" width="1200">
 </div>
 
 ## 👨‍💻 **About Me**
