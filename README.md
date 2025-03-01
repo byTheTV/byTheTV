@@ -31,7 +31,7 @@ Before Go, I primarily worked with **C++** and **machine learning** using **Pyth
   <img src="assets/icons/Photoshop.svg" width="50" alt="Photoshop">
 </div>
 
-###№ 📚 **Education**
+#### 📚 **Education**
 - **ITMO University**  
   Bachelor’s in Software Engineering (1st year)  
   Focus: System and Applied Software
