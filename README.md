@@ -8,7 +8,7 @@ Now fully focused on growing as a **Go developer** and specializing in backend s
 Before Go, I primarily worked with **C++** and **machine learning** using **Python**.
 
 ### 🛠 **Languages & Frameworks**
-<div>
+<span style="font-size: 18px;">
   <img src="assets/icons/GoLang.svg" width="50" alt="Go">
   <img src="assets/icons/CPP.svg" width="50" alt="C++">
   <img src="assets/icons/Python-Light.svg" width="50" alt="Python">
@@ -16,7 +16,7 @@ Before Go, I primarily worked with **C++** and **machine learning** using **Pyth
   <img src="assets/icons/Java-Light.svg" width="50" alt="Java">
   <img src="assets/icons/QT-Light.svg" width="50" alt="Qt">
   <img src="assets/icons/HTML.svg" width="50" alt="HTML">
-</div>
+</span>
 
 ### **Databases & Tools**
 <div>
