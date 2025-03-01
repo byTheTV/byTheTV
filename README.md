@@ -5,12 +5,12 @@
 ### **Languages & Frameworks**
 <div>
   <img src="assets/icons/GoLang.svg" width="50" alt="Go">
-  <img src="assets/CPP.svg" width="50" alt="C++">
-  <img src="assets/Python-Dark.svg" width="50" alt="Python">
-  <img src="assets/PyTorch-Dark.svg" width="50" alt="PyTorch">
-  <img src="assets/Java-Dark.svg" width="50" alt="Java">
-  <img src="assets/QT-Dark.svg" width="50" alt="Qt">
-  <img src="assets/HTML.svg" width="50" alt="HTML">
+  <img src="assets/icons/CPP.svg" width="50" alt="C++">
+  <img src="assets/icons/Python-Dark.svg" width="50" alt="Python">
+  <img src="assets/icons/PyTorch-Dark.svg" width="50" alt="PyTorch">
+  <img src="assets/icons/Java-Dark.svg" width="50" alt="Java">
+  <img src="assets/icons/QT-Dark.svg" width="50" alt="Qt">
+  <img src="assets/icons/HTML.svg" width="50" alt="HTML">
 </div>
 
 #### **Databases & Tools**
@@ -22,8 +22,8 @@
 
 ### 🔧 **Instruments**
 <div>
-  <img src="assets/icons/Git.png" width="50" alt="Photoshop">
-  <img src="assets/icons/Photoshop.png" width="50" alt="Photoshop">
+  <img src="assets/icons/Git.svg" width="50" alt="Photoshop">
+  <img src="assets/icons/Photoshop.svg" width="50" alt="Photoshop">
 </div>
 
 
