@@ -2,6 +2,9 @@
   <img src="assets/cc.gif" width="1200">
 </div>
 
+## Fancy seeing you here! <img src="assets/wave.gif" width="30">
+
+
 ## 👨‍💻 **About Me**
 I’m a first-year **Software Engineering** student at **ITMO University**, specializing in **System and Applied Software**. 
 Now fully focused on growing as a **Go developer** and specializing in backend systems.
