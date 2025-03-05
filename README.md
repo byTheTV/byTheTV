@@ -17,21 +17,19 @@ Before Go, I primarily worked with **C++** and **machine learning** using **Pyth
   <img src="assets/icons/Java-Light.svg" width="50" alt="Java">
   <img src="assets/icons/QT-Light.svg" width="50" alt="Qt">
   <img src="assets/icons/HTML.svg" width="50" alt="HTML">
+  <img src="assets/icons/CSS.svg" width="50" alt="CSS">
 </p>
 
-### **Databases & Tools**
+### 🔧 **Databases & Instruments**
 <div>
   <img src="assets/icons/PostgreSQL-Light.svg" width="50" alt="PostgreSQL">
   <img src="assets/icons/Docker.svg" width="50" alt="Docker">
   <img src="assets/icons/Postman.svg" width="50" alt="Postman">
   <img src="assets/icons/Bash-Light.svg" width="50" alt="Bash">
-</div>
-
-
-### 🔧 **Instruments**
-<div>
-  <img src="assets/icons/Git.svg" width="50" alt="Photoshop">
+  <img src="assets/icons/Git.svg" width="50" alt="Git">
+  <img src="assets/icons/Ubuntu-Light.svg" width="50" alt="Ubuntu">
   <img src="assets/icons/Photoshop.svg" width="50" alt="Photoshop">
+  <img src="assets/icons/Figma-Light.svg" width="50" alt="Figma">
 </div>
 
 #### 📚 **Education**
