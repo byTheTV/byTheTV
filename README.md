@@ -4,8 +4,7 @@
 
 ## Fancy seeing you here! <img src="assets/wave.gif" width="30">
 I’m a first-year **Software Engineering** student at **ITMO University**, specializing in **System and Applied Software**. 
-Now focused on growing in the direction of **Go** development and specializing in backend systems.
-Before Go, I primarily worked with **C++** and **machine learning** using **Python**.
+I worked with **Golang**, **Playwright**, **Python**, **C++** and **Java**. Also tried **machine learning** but I didn't really like it.
 
 ### 🛠 **Languages & Frameworks**
 <p style="font-size: 24px;">
