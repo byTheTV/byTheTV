@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cc.gif" width="1000">
+  <img src="assets/cc.gif" width="700">
 </div>
 
 ## Fancy seeing you here! <img src="assets/wave.gif" width="30">
