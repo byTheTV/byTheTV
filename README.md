@@ -3,7 +3,7 @@
 </div>
 
 ## Fancy seeing you here! <img src="assets/wave.gif" width="30">
-I’m a first-year **Software Engineering** student at **ITMO University**, specializing in **System and Applied Software**. 
+I’m a **Software Engineering** student at **ITMO University**, specializing in **System and Applied Software**. 
 I worked with **Golang**, **Playwright**, **Python**, **C++** and **Java**. Also tried **machine learning** but I didn't really like it.
 
 ### 🛠 **Languages & Frameworks**
@@ -33,8 +33,7 @@ I worked with **Golang**, **Playwright**, **Python**, **C++** and **Java**. Also
 
 #### 📚 **Education**
 - **ITMO University**  
-  Bachelor’s in Software Engineering (1st year)  
-  Focus: System and Applied Software
+  Bachelor’s in Software Engineering
 
 #### Competitive Programming
 - Prize winner in the **Rosatom Informatics Olympiad**.
