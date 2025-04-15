@@ -4,7 +4,7 @@
 
 ## Fancy seeing you here! <img src="assets/wave.gif" width="30">
 I’m a **Software Engineering** student at **ITMO University**, specializing in **System and Applied Software**. 
-I worked with **Golang**, **Playwright**, **Python**, **C++** and **Java**. Also tried **machine learning** but I didn't really like it.
+I worked with **Golang**, **Python**, **C++**, **Java**. Also tried **machine learning**.
 
 ### 🛠 **Languages & Frameworks**
 <p style="font-size: 24px;">
