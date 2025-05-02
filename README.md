@@ -22,10 +22,14 @@ I worked with **Golang**, **Python**, **C++**, **Java**. Also tried **machine le
 ### 🔧 **Databases & Instruments**
 <div>
   <img src="assets/icons/PostgreSQL-Light.svg" width="50" alt="PostgreSQL">
+  <img src="assets/icons/RabbitMQ-Light.svg" width="50" alt="RabbitMQ">
+  <img src="assets/icons/Redis-Light.svg" width="50" alt="Reddis">
+  <img src="assets/icons/SQLite.svg" width="50" alt="SQLite">
   <img src="assets/icons/Docker.svg" width="50" alt="Docker">
+  <img src="assets/icons/Git.svg" width="50" alt="Git">
+  <img src="assets/icons/GithubActions-Light.svg" width="50" alt="Github Actions">
   <img src="assets/icons/Postman.svg" width="50" alt="Postman">
   <img src="assets/icons/Bash-Light.svg" width="50" alt="Bash">
-  <img src="assets/icons/Git.svg" width="50" alt="Git">
   <img src="assets/icons/Ubuntu-Light.svg" width="50" alt="Ubuntu">
   <img src="assets/icons/Photoshop.svg" width="50" alt="Photoshop">
   <img src="assets/icons/Figma-Light.svg" width="50" alt="Figma">
