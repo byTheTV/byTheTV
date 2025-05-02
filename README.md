@@ -9,12 +9,11 @@ I worked with **Golang**, **Python**, **C++**, **Java**. Also tried **machine le
 ### 🛠 **Languages & Frameworks**
 <p style="font-size: 24px;">
   <img src="assets/icons/GoLang.svg" width="50" alt="Go">
-  <img src="assets/icons/CPP.svg" width="50" alt="C++">
   <img src="assets/icons/Python-Light.svg" width="50" alt="Python">
   <img src="assets/icons/Selenium.svg" width="50" alt="Selenuim">
   <img src="assets/icons/PyTorch-Light.svg" width="50" alt="PyTorch">
   <img src="assets/icons/Java-Light.svg" width="50" alt="Java">
-  <img src="assets/icons/QT-Light.svg" width="50" alt="Qt">
+  <img src="assets/icons/CPP.svg" width="50" alt="C++">
   <img src="assets/icons/HTML.svg" width="50" alt="HTML">
   <img src="assets/icons/CSS.svg" width="50" alt="CSS">
 </p>
